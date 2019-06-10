@@ -1,1 +1,3 @@
 Masuda will buy Dango tomorrow.
+
+Masuda  has bought  Dango everyday since today.
